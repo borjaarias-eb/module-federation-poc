@@ -13,3 +13,5 @@ cd host-app & npm install & npm run build & npm start
 ```sh
 cd micro-app & npm install & npm run build & npm start
 ```
+
+Visit http://localhost:2999 to see the host app.
